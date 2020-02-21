@@ -10,7 +10,7 @@ $(document).ready(function () {
     $(".owl-carousel").owlCarousel({
         items: 1,
         loop: true,
-        // responsiveClass: true,
+        responsiveClass: true,
         responsive: {
             0: {
                 items: 1
